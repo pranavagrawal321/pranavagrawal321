@@ -22,7 +22,7 @@ When not working on a project or thinking about coding, I would most likely be l
 
 [//]: # (**Languages and Tools:**  )
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -43,17 +43,13 @@ When not working on a project or thinking about coding, I would most likely be l
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-
 <a href="https://github.com/pranavagrawal321?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavagrawal321&count_private=true&show_icons=true&theme=radical" align="left" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavagrawal321&count_private=true&show_icons=true&theme=radical" width="350">
 </a>
-
-<a target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavagrawal321&layout=compact&theme=radical" align="right" width="350">
-</a>
-
-<br>
-
-<p align="center">
+<p>
+</p>
+<p>
   <img src="https://readme-jokes.vercel.app/api?theme=bear&borderColor=%23e4e2e2" alt="Jokes Card">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavagrawal321&layout=compact&theme=radical" width="350">
 </p>
