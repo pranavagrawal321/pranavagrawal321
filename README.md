@@ -51,3 +51,9 @@ When not working on a project or thinking about coding, I would most likely be l
 <a target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavagrawal321&layout=compact&theme=radical" align="right" width="350">
 </a>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=bear&borderColor=%23e4e2e2" alt="Jokes Card">
+</p>
