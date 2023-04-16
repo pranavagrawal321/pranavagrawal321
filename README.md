@@ -20,6 +20,8 @@ When not working on a project or thinking about coding, I would most likely be l
 - ⚡ Fun fact: I'm dumb
 <!-- - 🤔 I’m looking for help with ... -->
 
+<img src="https://komarev.com/ghpvc/?username=pranavagrawal321&label=Profile%20views&color=0e75b6&style=flat" alt="pranavagrawal321" />
+
 [//]: # (**Languages and Tools:**  )
 <h3 align="left">Languages and Tools:</h3>
 <p> 
@@ -46,10 +48,8 @@ When not working on a project or thinking about coding, I would most likely be l
 <a href="https://github.com/pranavagrawal321?tab=repositories" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=pranavagrawal321&count_private=true&show_icons=true&theme=radical" width="350">
 </a>
-<p>
-</p>
-<p>
-  <img src="https://readme-jokes.vercel.app/api?theme=bear&borderColor=%23e4e2e2" alt="Jokes Card">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavagrawal321&layout=compact&theme=radical" width="350">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavagrawal321&layout=compact&theme=radical" width="350">
+<br>
+
+<h3 align="left">A Random Joke for You!</h3>
+<img src="https://readme-jokes.vercel.app/api?theme=bear&borderColor=%23e4e2e2" alt="Jokes Card">
