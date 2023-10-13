@@ -11,7 +11,7 @@ When not working on a project or thinking about coding, I would most likely be l
 
 <!-- **I am currently looking for a web development or UI/UX Design position with an exciting company.** -->
 
-- 🔭 I’m currently working on HR Analytics Dashboard using Tableau 
+- 🔭 I’m currently working on Sentiment Analysis on Amazon Reviews 
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Python, Java, Tableau and Microsoft PowerBI
