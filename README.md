@@ -9,9 +9,7 @@ I'm honing my skills in data science and machine learning based in India. I am p
 
 When not working on a project or thinking about coding, I would most likely be listening to music, walking on desolated roads, organizing events or spending time with my family and friends.
 
-<!-- **I am currently looking for a web development or UI/UX Design position with an exciting company.** -->
-
-- 🔭 I’m currently working on Sentiment Analysis on Amazon Reviews 
+- 🔭 I’m currently working on Automatic Video Generation from Reddit 
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 👨🏾‍💻 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Python, Java, Tableau and Microsoft PowerBI
